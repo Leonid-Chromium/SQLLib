@@ -1,0 +1,12 @@
+D:\File\GitHub\SQLLib\SQLLib\bin\Debug\net5.0\SQLLib.deps.json
+D:\File\GitHub\SQLLib\SQLLib\bin\Debug\net5.0\SQLLib.dll
+D:\File\GitHub\SQLLib\SQLLib\bin\Debug\net5.0\ref\SQLLib.dll
+D:\File\GitHub\SQLLib\SQLLib\bin\Debug\net5.0\SQLLib.pdb
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\SQLLib.csproj.AssemblyReference.cache
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\SQLLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\SQLLib.AssemblyInfoInputs.cache
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\SQLLib.AssemblyInfo.cs
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\SQLLib.csproj.CoreCompileInputs.cache
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\SQLLib.dll
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\ref\SQLLib.dll
+D:\File\GitHub\SQLLib\SQLLib\obj\Debug\net5.0\SQLLib.pdb
